@@ -89,7 +89,15 @@ Material:
         m_Texture: {fileID: 2800000, guid: 7397fa8854ce8484080355f24c4911da, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_83509B9E_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7397fa8854ce8484080355f24c4911da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_8721685F_Texture:
+        m_Texture: {fileID: 2800000, guid: ec4e4257352e3544a89f939e71537bf9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8721685F_Texture_1:
         m_Texture: {fileID: 2800000, guid: ec4e4257352e3544a89f939e71537bf9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -244,3 +252,4 @@ Material:
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
